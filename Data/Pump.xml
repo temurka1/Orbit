@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<states>
+	<state>
+		<voltageIsAvailable>true</voltageIsAvailable>
+		<pressureIsAvailable>true</pressureIsAvailable>
+		<statusIsOn>false</statusIsOn>
+		<timestamp>23.06.2016 11:15:00</timestamp>
+	</state>
+	<state>
+		<voltageIsAvailable>true</voltageIsAvailable>
+		<pressureIsAvailable>true</pressureIsAvailable>
+		<statusIsOn>true</statusIsOn>
+		<timestamp>23.06.2016 11:21:24</timestamp>
+	</state>
+	<state>
+		<voltageIsAvailable>false</voltageIsAvailable>
+		<pressureIsAvailable>true</pressureIsAvailable>
+		<statusIsOn>false</statusIsOn>
+		<timestamp>23.06.2016 11:57:18</timestamp>
+	</state>
+	<state>
+		<voltageIsAvailable>false</voltageIsAvailable>
+		<pressureIsAvailable>true</pressureIsAvailable>
+		<statusIsOn>false</statusIsOn>
+		<timestamp>23.06.2016 11:57:51</timestamp>
+	</state>
+	<state>
+		<voltageIsAvailable>true</voltageIsAvailable>
+		<pressureIsAvailable>true</pressureIsAvailable>
+		<statusIsOn>true</statusIsOn>
+		<timestamp>23.06.2016 12:05:37</timestamp>
+	</state>
+	<state>
+		<voltageIsAvailable>true</voltageIsAvailable>
+		<pressureIsAvailable>true</pressureIsAvailable>
+		<statusIsOn>false</statusIsOn>
+		<timestamp>23.06.2016 12:32:19</timestamp>
+	</state>
+	<state>
+		<voltageIsAvailable>true</voltageIsAvailable>
+		<pressureIsAvailable>false</pressureIsAvailable>
+		<statusIsOn>false</statusIsOn>
+		<timestamp>23.06.2016 12:45:59</timestamp>
+	</state>
+</states>

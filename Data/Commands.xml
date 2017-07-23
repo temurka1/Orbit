@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<commands>
+	<command>
+		<value>On</value>
+		<timestamp>23.06.2016 11:21:22</timestamp>
+	</command>
+	<command>
+		<value>Off</value>
+		<timestamp>23.06.2016 11:29:34</timestamp>
+	</command>
+	<command>
+		<value>On</value>
+		<timestamp>23.06.2016 11:57:13</timestamp>
+	</command>
+	<command>
+		<value>On</value>
+		<timestamp>23.06.2016 11:57:46</timestamp>
+	</command>
+	<command>
+		<value>On</value>
+		<timestamp>23.06.2016 12:05:37</timestamp>
+	</command>
+	<command>
+		<value>Off</value>
+		<timestamp>23.06.2016 12:32:17</timestamp>
+	</command>
+	<command>
+		<value>On</value>
+		<timestamp>23.06.2016 12:45:54</timestamp>
+	</command>
+
+</commands>
