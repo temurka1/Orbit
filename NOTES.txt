@@ -1,0 +1,18 @@
+/Data
+	PumpCommands - классы, в которые десериализуется xml с командами оператора
+	PumpStates   - классы, в которые десериализуется xml с состояния насоса
+	
+/Services
+	IPumpService - интерфейс фабрики для создания PumpCommands и PumpStates
+	XmlPupmpService - фабрика для загрузки данных из xml
+
+/ViewModels
+	СommandsViewModel - view-model для таблицы
+	OrbitViewModel - главная view-model
+	
+/Views
+	OrbitView - главная вьюха приложения
+
+OribitBootstraper - бутстрапер, нужный для Caliburn.Micro
+
+Сложностей не возникло, но у вас проблема в данных - насос не всегда дампит свое состояние в файл
